@@ -1,7 +1,3 @@
-import string
-from urllib import request
-from urllib.parse import quote
-
 import requests
 
 
